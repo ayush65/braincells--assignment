@@ -1,0 +1,49 @@
+/** @format */
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-title {
+  color: #264653;
+  font-size: 3rem;
+}
+.img-sun {
+  width: 20%;
+  position: absolute;
+  top: 10%;
+  left: 5%;
+}
+.play-btn {
+  margin-top: 10rem;
+  position: absolute;
+}
+
+.toggle {
+  cursor: pointer;
+}
+
+.toggle.is-active {
+  display: none;
+}
+
+.button {
+  transition-duration: 0.4s;
+  background-color: #008cba;
+  padding: 1rem 3rem;
+  color: white;
+  font-size: 2rem;
+  margin-top: 11rem;
+}
+.img-dog {
+  position: absolute;
+  top: 50%;
+  width: 25%;
+  right: 45%;
+}
+
+.button:hover {
+  background-color: #4caf50; /* Green */
+  color: white;
+}

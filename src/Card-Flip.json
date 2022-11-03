@@ -1,0 +1,84 @@
+{
+  "Card-Flip": [
+    {
+      "imageSet": [
+        {
+          "image": "./assets/farm_animals/cow.png"
+        },
+        {
+          "image": "./assets/farm_animals/rabbit.png"
+        },
+        {
+          "image": "./assets/farm_animals/dog.png"
+        },
+        {
+          "image": "./assets/farm_animals/cat.png"
+        },
+        {
+          "image": "./assets/farm_animals/camel.png"
+        },
+        {
+          "image": "./assets/farm_animals/sheep.png"
+        },
+        {
+          "image": "./assets/farm_animals/cow.png"
+        },
+        {
+          "image": "./assets/farm_animals/rabbit.png"
+        },
+        {
+          "image": "./assets/farm_animals/dog.png"
+        },
+        {
+          "image": "./assets/farm_animals/cat.png"
+        },
+        {
+          "image": "./assets/farm_animals/camel.png"
+        },
+        {
+          "image": "./assets/farm_animals/sheep.png"
+        }
+      ]
+    },
+    {
+      "imageSet": [
+        {
+          "image": "/assets/study_material/pen.jpeg"
+        },
+        {
+          "image": "/assets/study_material/pencil.jpeg"
+        },
+        {
+          "image": "/assets/study_material/book.jpeg"
+        },
+        {
+          "image": "/assets/study_material/eraser.png"
+        },
+        {
+          "image": "/assets/study_material/sharpner.jpeg"
+        },
+        {
+          "image": "/assets/study_material/notebook.jpeg"
+        },
+        {
+          "image": "/assets/study_material/pen.jpeg"
+        },
+        {
+          "image": "/assets/study_material/pencil.jpeg"
+        },
+        {
+          "image": "/assets/study_material/book.jpeg"
+        },
+        {
+          "image": "/assets/study_material/eraser.png"
+        },
+        {
+          "image": "/assets/study_material/sharpner.jpeg"
+        },
+        {
+          "image": "/assets/study_material/notebook.jpeg"
+        }
+      ]
+    }
+  ]
+}
