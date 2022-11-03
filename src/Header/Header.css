@@ -48,3 +48,23 @@
   background-color: #4caf50;
   color: white;
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+  .img-dog {
+    top: 65%;
+    width: 45%;
+    right: 45%;
+  }
+  .img-sun {
+    width: 30%;
+    top: 25%;
+    left: 1%;
+  }
+  .button {
+    margin-top: 4rem;
+    padding: 0.5rem 2rem;
+  }
+}
