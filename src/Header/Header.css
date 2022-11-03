@@ -35,15 +35,16 @@
   color: white;
   font-size: 2rem;
   margin-top: 11rem;
+  cursor: pointer;
 }
 .img-dog {
   position: absolute;
-  top: 50%;
-  width: 25%;
+  top: 60%;
+  width: 15%;
   right: 45%;
 }
 
 .button:hover {
-  background-color: #4caf50; /* Green */
+  background-color: #4caf50;
   color: white;
 }

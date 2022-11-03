@@ -32,7 +32,7 @@ const Header = () => {
           Play
         </button>
         <img
-          src='https://media4.giphy.com/media/l3V0rXVqEntiq54VG/giphy.gif'
+          src='https://i.pinimg.com/originals/d6/92/d0/d692d0045629cc274fb9842f258d6b38.gif'
           alt=''
           className='img-dog'
         />
